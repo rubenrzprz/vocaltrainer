@@ -1,0 +1,21 @@
+.card {
+    max-height: 300px;
+}
+
+.m-exercise {
+    background-color: rgb(182, 221, 202);
+}
+
+.b-exercise {
+    background-color: rgb(236, 195, 211);
+}
+
+.container-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.link {
+    text-decoration: none;
+}
